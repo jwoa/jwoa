@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @jwoa
-- 👀 I’m interested in human computer interaction
-- 🌱 I’m currently working at Cartier in innovation
-- 💞️ I’m looking to collaborate on anything virtual
-- 📫 How to reach me, jason@seasonsix.co
+- I’m @jwoa
+- I’m interested in human computer interaction
+- I’m currently working at Havas CX
+- How to reach me, contact@jason-a.com
 
 <!---
 jwoa/jwoa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
